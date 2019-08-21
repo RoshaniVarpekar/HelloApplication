@@ -1,1 +1,1 @@
-Hey Guys, we are in a Git traning
+Hey Guys, we are in a Git traigit ning
