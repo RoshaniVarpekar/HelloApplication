@@ -1,2 +1,1 @@
-Hey Guys, we are in a Git training
-Today is Git training day-2
+Hey there! I'm learning Git...
